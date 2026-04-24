@@ -1,6 +1,6 @@
 # CodeBoost Landing Page - React + Vite
 
-A modern, fully responsive landing page for CodeBoost built with React, Vite, and Tailwind CSS. Features smooth animations, elegant design, and pricing in Indian Rupees.
+A modern, fully responsive landing page for CodeBoost built with React, Vite, and Tailwind CSS. Features smooth animations, elegant design.
 
 ## 🚀 Features
 
